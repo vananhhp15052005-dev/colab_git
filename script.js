@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     button.addEventListener("click", function () {
         // Tên 3 thành viên (đổi lại nếu cần)
-        const members = ["Tom", "Jerry", "Spike"];
+        const members = ["Vân Anh", "Chí Đạt", "Chí Vĩnh"];
         // Hiển thị danh sách
         alert("Thành viên nhóm:\n" + members.join("\n"));
     });
